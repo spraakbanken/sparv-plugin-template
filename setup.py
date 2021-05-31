@@ -3,7 +3,7 @@
 import setuptools
 
 setuptools.setup(
-    name="uppercase",
+    name="sparv-uppercase",
     version="0.1",
     description="Uppercase converter (example plug-in for Sparv)",
     license="MIT",
