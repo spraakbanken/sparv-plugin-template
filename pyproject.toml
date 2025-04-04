@@ -3,7 +3,7 @@ name = "sparv-sbx-uppercase"
 version = "0.1.0"
 description = "Uppercase converter (example plug-in for Sparv)"
 readme = "README.md"
-license.text = "MIT License"
+license = "MIT"
 # authors = [
 #     { name = "", email = "" }
 # ]
