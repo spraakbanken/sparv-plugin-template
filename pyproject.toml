@@ -8,6 +8,6 @@ license = "MIT"
 #     { name = "", email = "" }
 # ]
 dependencies = [
-    "sparv-pipeline~=5.0"
+    "sparv~=5.0"
 ]
 entry-points."sparv.plugin" = { sbx_uppercase = "sbx_uppercase" }
